@@ -19,4 +19,4 @@ A Python application that reads the contents of a PDF file and converts it to sp
 ### Installation
  **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/text-to-speech-pdf-reader.git
+   git clone https://github.com/babulaaldon/text-to-speech-pdf-reader.git
